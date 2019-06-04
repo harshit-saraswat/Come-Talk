@@ -1,13 +1,8 @@
 # Sign Language Detector
-A simple CNN project for detecting american sign language.
-Here, I have implemented CNN (Convolution Neural Network) using Keras.
+A python based computer vision- sign language recognizer program which recognizes sign language hand gestures and give output in english language format which is understandable by most people.
 
-### Tools Used
-1. Python 3
-2. OpenCV 3
-3. Tensorflow
-4. Keras
-
+### Tools Used ###
+Python, Tensorflow, Keras, OpenCv
 ### Running this project
 1. Install Python 3, Opencv 3, Tensorflow, Keras.
 2. First Train the model.
@@ -24,7 +19,8 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
     ```
     python capture.py
     ```
-
+The dataset can be downloaded from: 
+https://drive.google.com/open?id=1ceeZWl7EhClQRw0XevvfWPbJQIWO2uOE
 
 
 
